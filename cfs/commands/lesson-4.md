@@ -127,6 +127,17 @@ then on it's a single command.
 Landing pages, content, emails, weekly reviews. Anything you do repeatedly can become a
 skill. This is how you stop doing the same work twice.
 
+Then, before rushing on, offer to keep going. Genuinely:
+
+**Want to keep going with this skill, tweak it, or build another, or are you ready to move on
+to the next lesson?**
+
+No rush. If it's useful to keep refining it or run it again, do that. Someone wanting to stay
+and use what they built is a good sign, not a detour.
+
+HARD GATE. Only show the completion card and wrap up below once THEY say they're ready to move
+on.
+
 ```
   ╔══════════════════════════════════════════╗
   ║                                          ║
@@ -175,6 +186,7 @@ Do NOT invoke lesson-5.
 ## Rules
 - ALWAYS first person as James. NEVER use em dashes. NO video.
 - HARD GATE on confirming what the skill does before building.
-- The skill MUST read and use their saved voice/project files, never a generic tone.
+- If the skill produces content, it MUST read and use their saved voice/project files, never a generic tone. Utility skills (briefings, admin, research) are just as valid; have them use the right tools or files for the job.
 - Actually RUN the skill in Step 3. Never simulate it.
+- After Step 3, don't push them on. Offer to keep using or refining the skill and only wrap up when they say they're ready.
 - EVERY sentence on its own line. At the END, tell them to TYPE `/cfs:lesson-5`.
