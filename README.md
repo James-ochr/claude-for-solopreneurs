@@ -10,25 +10,23 @@ By [James Christensen](https://christensencoaching.com), Executive Coach (ACC).
 
 ## Install
 
-You need a **Claude Pro or Max** account. The whole thing takes about two minutes.
+The whole thing takes about two minutes.
 
-**1. Install Claude Code** (skip if you already have it). In your terminal:
+**1. Get a Claude subscription.** You need **Claude Pro or Max** ([claude.com/pricing](https://claude.com/pricing)). This gives you Claude Code, no API keys or tokens needed.
 
-```
-curl -fsSL https://claude.ai/install.sh | bash
-```
+**2. Get Claude Code.** Pick whichever suits you:
+- **Desktop app (easiest):** download the [Claude desktop app](https://claude.com/pricing), sign in, and click the **Code** tab.
+- **Terminal:** run `curl -fsSL https://claude.ai/install.sh | bash`, then type `claude`.
 
-**2. Sign in.** Type `claude`, and a browser window opens to sign in. No API keys, no tokens.
-
-**3. Install the course.** Paste this into your terminal:
+**3. Install the course.** Open your **Terminal** (on Mac: press `Cmd + Space`, type "Terminal", hit Enter) and paste this one line:
 
 ```
 curl -fsSL https://raw.githubusercontent.com/James-ochr/claude-for-solopreneurs/main/install.sh | bash
 ```
 
-This downloads the 5 lessons and the gifts to your machine. Takes a few seconds.
+This copies the 5 lessons and the gifts onto your machine. Takes a few seconds.
 
-**4. Start it.** Open Claude Code (type `claude`) and run:
+**4. Start it.** Open Claude Code (the desktop **Code** tab, or type `claude` in your terminal) and run:
 
 ```
 /cfs:start
@@ -36,7 +34,9 @@ This downloads the 5 lessons and the gifts to your machine. Takes a few seconds.
 
 After that, the course is always just `/cfs:start`.
 
-> Already using Claude Code as a plugin user? You can instead run `/plugin marketplace add James-ochr/claude-for-solopreneurs` then `/plugin install cfs@claude-for-solopreneurs`. The `curl` installer above is the simplest path and works everywhere.
+> **Rather not touch Terminal?** In the desktop **Code** tab you can paste the `curl … install.sh | bash` line and ask Claude to run it for you, then click Allow.
+>
+> **Plugin user?** You can instead run `/plugin marketplace add James-ochr/claude-for-solopreneurs` then `/plugin install cfs@claude-for-solopreneurs` (terminal Claude Code only).
 
 ---
 
