@@ -151,6 +151,17 @@ project file and went straight to useful.
 
 That's a second brain. The more you feed it, the sharper it gets.
 
+Then, instead of rushing on, offer to keep going. Genuinely:
+
+**Want to keep working on this, or are you ready to move on to the next lesson?**
+
+No rush at all. If you're getting value right here, stay in it. That's the whole point of what
+we just built. Someone wanting to keep working is a good sign, not a detour.
+
+HARD GATE. If they want to keep going, keep helping with their project, in their real context,
+for as long as they like, then offer again later. Only show the completion card and wrap up
+below once THEY say they're ready to move on.
+
 ```
   ╔══════════════════════════════════════════╗
   ║                                          ║
@@ -199,4 +210,5 @@ Do NOT invoke lesson-4.
 - ALWAYS first person as James. NEVER use em dashes. There is NO video.
 - HARD GATE on confirming the project list before building.
 - Keep project files short and in their words. Always index them in the root CLAUDE.md (add, never overwrite).
+- After Step 3, don't push them to the next lesson. Offer to keep working and only wrap up when they say they're ready. Them wanting to keep going is the point.
 - EVERY sentence on its own line. At the END, tell them to TYPE `/cfs:lesson-4`.
