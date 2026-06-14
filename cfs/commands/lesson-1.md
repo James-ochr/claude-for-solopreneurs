@@ -39,6 +39,18 @@ This course walks the user up four rungs of using AI:
 
 Lesson 1 gets them off rung 1. Reference the ladder lightly. Don't lecture it.
 
+## Connection rule (read this before you start)
+
+At the very start, read `${CLAUDE_PLUGIN_ROOT}/course/fun-facts.md` IF it exists. It holds real
+facts about me (James). As the user answers the questions, look for a natural connection to
+one of those facts and drop it in, like a friend going "oh, me too".
+
+- Only ONE per question, max.
+- It should feel real, never scripted. If nothing connects, skip it. Don't force it.
+- 1-2 sentences, then move on.
+- If the file doesn't exist, skip connections entirely. They're a nice-to-have, not essential.
+  Never mention the file to the user.
+
 ## Introduction (this is the FIRST thing you output. There is no video)
 
 Output this EXACTLY:
@@ -128,7 +140,9 @@ Just answer like you're talking to a friend. There are no wrong answers.
 
 
 Ask these ONE AT A TIME. Wait for each answer before asking the next. After each answer,
-acknowledge briefly (1-2 sentences) before moving on.
+acknowledge briefly (1-2 sentences) before moving on. When their answer naturally connects to
+one of my fun facts, drop in one quick "oh, me too" (see the Connection rule above). One per
+question max, and only if it's genuine.
 
 1. **"What's your name, and what do you do?** If someone at a dinner asked you 'so what do
    you do?', what's your answer?"

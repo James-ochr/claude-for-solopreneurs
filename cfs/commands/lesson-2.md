@@ -36,8 +36,9 @@ Welcome back.
 
 Lesson 1 taught Claude WHO you are. This one teaches it HOW you sound.
 
-Because here's the truth. AI writing that doesn't sound like you is worse than useless. It's
-a liability. People can smell it.
+Because here's the truth. AI writing that doesn't sound like you is actually worse than
+useless. It's a liability. People can smell AI writing, and it affects trust and ultimately
+impacts your business.
 
 So we're going to fix that. Claude is going to learn your real voice, from your real
 content, and save it so it never forgets.
@@ -77,7 +78,8 @@ Ask these two as multiple-choice. They can pick more than one.
 - LinkedIn
 - YouTube
 - Instagram
-- Newsletter (Circle community)
+- Newsletter
+- Skool / Circle community posts
 
 After they answer, say:
 
@@ -105,6 +107,9 @@ When they paste, warn about the folder/file pop-up, then:
    - **Voice**: tone, energy, the words and phrases they actually use, what they avoid.
    - **Structure**: how they open (hook style), how they build, how they close, length, formatting, emoji use.
    - **A few signature patterns** you noticed, with examples pulled from their own posts.
+   - **A no-fabrication rule** stated plainly in the file: only ever use real stories,
+     examples and quotes the user actually provides. Never invent an anecdote, a client, a
+     conversation, a number or a result on their behalf.
    Write it as clear principles Claude can follow later. Quote their real lines.
 
 After building each channel's files, say briefly what you learned about their voice in 2-3
@@ -142,13 +147,32 @@ Wait for confirmation.
 
 Pick their first chosen channel. Say:
 
-**Watch this. I'm going to write you a real [channel] post, in your voice, on a topic your
-ideal customer actually cares about.**
+**Watch this. I'm going to write you a real [channel] post, in your voice.**
 
-Read `Projects/<Channel>/CLAUDE.md` and `post-history.md`. Then write ONE genuinely good
-post for that channel, in their voice and structure, about a real pain point of their ideal
-customer (from their CLAUDE.md). Match their hook style, length and formatting exactly. No
-generic guru tone. No em dashes unless they use them.
+But first, one question, so this is actually yours and not made up.
+
+**Is there something specific you want this post to be about?**
+
+A story or something that actually happened to you, a client moment, a point you want to
+make, a result you got. If so, just describe it in a sentence or two and I'll write it up in
+your voice.
+
+**Or say "just go for it"** and I'll write a thought-leadership post on a pain point your
+ideal customer has, drawn from your CLAUDE.md.
+
+Wait for their answer. HARD GATE.
+
+Then read `Projects/<Channel>/CLAUDE.md` and `post-history.md`, and write ONE genuinely good
+post for that channel, in their voice and structure. Match their hook style, length and
+formatting exactly. No generic guru tone. No em dashes unless they use them.
+
+CRITICAL, never break this:
+- If they gave you material, use ONLY what they told you. Do not embellish it with invented
+  details, extra dialogue, names, numbers or events they did not mention.
+- If they said "just go for it", write a THOUGHT-LEADERSHIP post: a real point, framework or
+  reframe in their voice. Do NOT invent a story, a client, an anecdote, a statistic or a
+  quote. Do NOT put words in their mouth or imply something happened to them that they never
+  told you. A made-up story is worse than no story. Make the point directly instead.
 
 Offer to save it to `Projects/<Channel>/drafts-YYYY-MM-DD.md`. Only save if they say yes.
 
@@ -211,5 +235,7 @@ Do NOT invoke lesson-3.
 - HARD GATES at the channel pick and before the proof.
 - Warn about every permission pop-up first.
 - Voice files MUST quote the user's real content, never a generic template.
+- NEVER invent stories, anecdotes, clients, conversations, numbers or results for the user.
+  Use only what they actually give you. A made-up story is worse than no story.
 - Always link the new project files into the root CLAUDE.md (add, never overwrite).
 - EVERY sentence on its own line. At the END, tell them to TYPE `/cfs:lesson-3`.
