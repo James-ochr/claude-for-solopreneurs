@@ -18,15 +18,15 @@ The whole thing takes about two minutes.
 - **Desktop app (easiest):** download the [Claude desktop app](https://claude.com/pricing), sign in, and click the **Code** tab.
 - **Terminal:** run `curl -fsSL https://claude.ai/install.sh | bash`, then type `claude`.
 
-**3. Install the course.** Open your **Terminal** (on Mac: press `Cmd + Space`, type "Terminal", hit Enter) and paste this one line:
+**3. Install the course.** In Claude Code (the desktop **Code** tab, or `claude` in your terminal), paste this and send it. Claude will run it and ask you to **Allow**, say yes.
 
 ```
-curl -fsSL https://raw.githubusercontent.com/James-ochr/claude-for-solopreneurs/main/install.sh | bash
+Run this: curl -fsSL https://raw.githubusercontent.com/James-ochr/claude-for-solopreneurs/main/install.sh | bash
 ```
 
-This copies the 5 lessons and the gifts onto your machine. Takes a few seconds.
+This copies the 5 lessons and the gifts onto your machine. Takes a few seconds. No Terminal needed.
 
-**4. Start it.** Open Claude Code (the desktop **Code** tab, or type `claude` in your terminal) and run:
+**4. Start it.** In the same Claude Code window, type:
 
 ```
 /cfs:start
@@ -34,7 +34,7 @@ This copies the 5 lessons and the gifts onto your machine. Takes a few seconds.
 
 After that, the course is always just `/cfs:start`.
 
-> **Rather not touch Terminal?** In the desktop **Code** tab you can paste the `curl … install.sh | bash` line and ask Claude to run it for you, then click Allow.
+> **Prefer the Terminal?** You can paste the `curl … install.sh | bash` line straight into a terminal instead, then open Claude Code and run `/cfs:start`.
 >
 > **Plugin user?** You can instead run `/plugin marketplace add James-ochr/claude-for-solopreneurs` then `/plugin install cfs@claude-for-solopreneurs` (terminal Claude Code only).
 
