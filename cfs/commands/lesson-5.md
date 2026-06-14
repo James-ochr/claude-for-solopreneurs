@@ -215,7 +215,7 @@ You even have a team of agents you can dispatch to do complex work for you.
   ║   4. Built a skill                                   ║
   ║   5. Ran an agent team                               ║
   ║                                                      ║
-  ║   You're running your business with AI.              ║
+  ║   Feel all the feels and get it done.                ║
   ║                                                      ║
   ╚══════════════════════════════════════════════════════╝
 
