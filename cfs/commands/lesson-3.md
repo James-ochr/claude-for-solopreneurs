@@ -118,10 +118,14 @@ Then output:
 **The more information you put in these folders, the more Claude can understand the project
 and give you meaningful help.**
 
-If it's a complex project, point Claude to its folder and ask it to create a CLAUDE.md inside
-that explains what the project is all about. That's it.
+If it's a complex project, you can ask Claude to create its own CLAUDE.md file inside the
+project folder and explain the project to it.
 
-**Type `1` and let's work on something.**
+That way, anytime you work inside that project folder, Claude loads all that rich context for
+you automatically.
+
+If you're happy, and you think you've put enough context into your project folders, **type
+`1` and let's work on something.**
 
 Wait for confirmation.
 
