@@ -99,7 +99,7 @@ Every report MUST follow the course HOUSE STYLE:
   in getting your emotions to work for you and your business, and deliver powerfully for your
   customers, let's build your inner edge together with Inner Edge.", then a gold button
   **"Work one to one with James →"** linking to
-  `https://docs.google.com/forms/d/1sbXrxE9zKvAdYi41_C7rt1DWE4gQBIXRDPuBa1HJGOc/viewform`.
+  `https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform`.
 - Footer: "James Christensen · christensencoaching.com". Mobile responsive. No em dashes.
 
 Agent prompts (insert their niche and ideal customer from CLAUDE.md, and the full house-style

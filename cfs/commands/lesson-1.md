@@ -256,7 +256,7 @@ using ONLY what's in their CLAUDE.md. Follow the HOUSE STYLE below exactly.
   soft offset shadow `6px 6px 0 rgba(22,36,61,.08)`.
 - Bottom CTA band on navy: label "Ready to go deeper?", a 120px gold-light rule, a short
   light paragraph, then a gold button reading **"Work one to one with James →"** linking to
-  `https://docs.google.com/forms/d/1sbXrxE9zKvAdYi41_C7rt1DWE4gQBIXRDPuBa1HJGOc/viewform`
+  `https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform`
   (target _blank). Button: gold background, navy text, Inter Tight 600, padding 18px 40px,
   8px radius, hover lifts slightly. CTA paragraph: "If you want to grow in getting your
   emotions to work for you and your business, and deliver powerfully for your customers,
