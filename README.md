@@ -8,22 +8,35 @@ By [James Christensen](https://christensencoaching.com), Executive Coach (ACC).
 
 ---
 
-## Install (no terminal required)
+## Install
 
-You need a **Claude Pro or Max** account and the **Claude desktop app** (Mac or Windows). Once you are signed in, paste these two lines into Claude Code, one time only:
+You need a **Claude Pro or Max** account. The whole thing takes about two minutes.
+
+**1. Install Claude Code** (skip if you already have it). In your terminal:
 
 ```
-/plugin marketplace add James-ochr/claude-for-solopreneurs
-/plugin install cfs@claude-for-solopreneurs
+curl -fsSL https://claude.ai/install.sh | bash
 ```
 
-Then start the course:
+**2. Sign in.** Type `claude`, and a browser window opens to sign in. No API keys, no tokens.
+
+**3. Install the course.** Paste this into your terminal:
+
+```
+curl -fsSL https://raw.githubusercontent.com/James-ochr/claude-for-solopreneurs/main/install.sh | bash
+```
+
+This downloads the 5 lessons and the gifts to your machine. Takes a few seconds.
+
+**4. Start it.** Open Claude Code (type `claude`) and run:
 
 ```
 /cfs:start
 ```
 
-After that first install, the course is always just `/cfs:start`.
+After that, the course is always just `/cfs:start`.
+
+> Already using Claude Code as a plugin user? You can instead run `/plugin marketplace add James-ochr/claude-for-solopreneurs` then `/plugin install cfs@claude-for-solopreneurs`. The `curl` installer above is the simplest path and works everywhere.
 
 ---
 
