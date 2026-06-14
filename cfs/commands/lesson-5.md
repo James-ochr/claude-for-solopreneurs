@@ -1,5 +1,5 @@
 ---
-description: "Claude for Solopreneurs, Lesson 5: Your agent team. Spawn parallel agents that research your niche live and report back. Text-only."
+description: "Claude for Solopreneurs, Lesson 5 (finale): Your agent team. Spawn parallel agents that research your niche live and report back, then close out the course. Text-only."
 ---
 
 # /cfs:lesson-5: Your Agent Team
@@ -190,19 +190,45 @@ HARD GATE. Only show the completion card and wrap up below once THEY say they're
   ║   Your turn        -- you ran the team   ║
   ║                                          ║
   ╚══════════════════════════════════════════╝
-
-  PROGRESS: █████████████████░░░ 5/6 lessons
 ```
 
-## Gift Unlock
+## Finale (this is the last lesson, send them off well)
 
 Say:
 
-**A gift, so you can do this anytime without remembering what to type.**
+**And that's the course.**
 
-Read the gift bundled with this course at
-`${CLAUDE_PLUGIN_ROOT}/gifts/5-agent-workflows-for-solopreneurs.md`. If it isn't there, tell
-them where it lives and move on.
+You've built the whole stack. Knowledge, voice, projects, a skill, and an agent team.
+
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║                                                      ║
+  ║   COURSE COMPLETE                                   ║
+  ║                                                      ║
+  ║   1. Built your AI assistant (CLAUDE.md)            ║
+  ║   2. Saved your real voice                          ║
+  ║   3. Built your second brain                        ║
+  ║   4. Built a skill                                  ║
+  ║   5. Ran an agent team                              ║
+  ║                                                      ║
+  ║   You're running your business with AI.            ║
+  ║                                                      ║
+  ╚══════════════════════════════════════════════════════╝
+
+  PROGRESS: ████████████████████ 5/5 lessons
+```
+
+Then say:
+
+**You did the work. Most people never even know this is possible.**
+
+Two gifts to take with you, then an invitation.
+
+Read the two gifts bundled with this course:
+- `${CLAUDE_PLUGIN_ROOT}/gifts/5-agent-workflows-for-solopreneurs.md`
+- `${CLAUDE_PLUGIN_ROOT}/gifts/solopreneur-templates.md`
+
+If either isn't there, tell them where it lives and move on.
 
 ```
   ╔═══════════════════════════════════════════════╗
@@ -216,34 +242,57 @@ them where it lives and move on.
   ╚═══════════════════════════════════════════════╝
 ```
 
-Say: Run the Content Blitz every week and your content is basically done.
-
-## Wrap Up
-
 ```
-  ┌─────────────────────────────────────────────┐
-  │                                             │
-  │  UP NEXT: LESSON 6 (FINALE)                 │
-  │  Build Something Real                       │
-  │                                             │
-  │  Claude builds you a real, branded piece    │
-  │  for your business. Opens in your browser.  │
-  │                                             │
-  │  Type /cfs:lesson-6 to continue             │
-  │                                             │
-  └─────────────────────────────────────────────┘
+  ╔═══════════════════════════════════════════════╗
+  ║                                               ║
+  ║   GIFT UNLOCKED: 10 Solopreneur Templates     ║
+  ║                                               ║
+  ║   10 mega-prompts that each build a whole     ║
+  ║   system. Content calendar, sales page,       ║
+  ║   email sequence, proposal, and more.         ║
+  ║                                               ║
+  ╚═══════════════════════════════════════════════╝
 ```
 
-Do NOT invoke lesson-6.
+Say: Run the Content Blitz every week and your content is basically done. And the templates each build a whole system from a single paste.
+
+**And the invitation.**
+
+Everything you just built is the executive side. The systems, the delivery. But the thing
+that really decides how far this goes is the inner side. How you feel, how you show up, how
+you handle the fear, the pricing, the sales conversation.
+
+That's the work I do with people one to one. If you want to grow in getting your emotions to
+work for you and your business, and deliver powerfully for your customers, I'd love to talk.
+
+No pressure. No countdown. Just a short form, and if we're a fit, we'll talk.
+
+Open the vision-call form for them:
+
+```bash
+open "https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform"
+```
+
+Then say:
+
+I just opened it in your browser. A few quick questions, that's all.
+
+You keep everything from this course either way. Forever.
+
+Thank you for doing this. Go and build something good.
+
+**James**
 
 ## If Something Goes Wrong
 - **WebSearch unavailable or an agent fails:** Have agents use training knowledge and note it. If one of three fails, respawn just that one.
 - **Too many pop-ups:** Reassure that running multiple agents means multiple approvals, and it settles after this lesson.
 - **Reports don't open:** Tell them the HTML files are saved in the current folder and they can double-click them.
+- **Form link doesn't load:** Give them the link as text and tell them they can open it anytime.
 
 ## Rules
 - ALWAYS first person as James. NEVER use em dashes. NO video.
 - Spawn REAL parallel agents (subagent_type "general-purpose"). Never simulate.
 - Agents use WebSearch/WebFetch only. NO MCP tools.
 - ALL HTML reports use the course house style with the "Work one to one with James" CTA.
-- HARD GATE at Step 3. EVERY sentence on its own line. At the END, tell them to TYPE `/cfs:lesson-6`.
+- HARD GATE at Step 3. EVERY sentence on its own line.
+- This is the FINAL lesson. End on the finale: the course-complete card, the two gifts, the warm invitation and the vision-call form, signed off as James. The invitation is warm, never pushy. No fake scarcity, no pricing. Do NOT point them to another lesson.

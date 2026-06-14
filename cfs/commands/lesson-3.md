@@ -83,18 +83,47 @@ building. HARD GATE.
 
 ## Step 2: Build the project folders
 
-For each project they confirmed (and that doesn't already exist under `Projects/`), warn
-about the pop-up, then create `Projects/<Project Name>/CLAUDE.md` capturing, in their words:
+First, a quick word on the two files we put in every project. Explain it simply, because it
+matters:
 
-- **What this is** (one or two lines).
-- **The current state** (where it's at right now).
-- **How they work on it** (their process, preferences, what "good" looks like here).
+- **CLAUDE.md is the static brief.** It's what I read every time you open this project. The
+  outcome you're going for, how you like to work here, the end game, who the players are. The
+  things that stay true across the whole project.
+- **memory.md is the living log.** It's for what changes as the project moves: decisions you
+  make, milestones you hit, what's still left to do.
+
+Simple version: CLAUDE.md is the who, what and how. memory.md is what's happened and what's
+next.
+
+For each project they confirmed (and that doesn't already exist under `Projects/`), warn
+about the pop-up, then create TWO files.
+
+**1. `Projects/<Project Name>/CLAUDE.md`** capturing, in their words:
+- **What this is** (a line or two).
+- **How they work on it** (process, preferences, what "good" looks like here).
+- **The end game** (the outcome they're going for).
+- **The players** (who's involved, if anyone).
 - **Anything Claude should always know** before helping with it.
 
-Keep each short and real. Ask one quick clarifying question per project only if you need it.
+If they've shared almost nothing about a project, do NOT pad it or invent. Write a short
+CLAUDE.md that says: "I haven't told you much about this project yet. Next time we work on it,
+prompt me to tell you more: the outcome, how I want to work, who's involved. Also check
+memory.md for where things are at." Then move on.
 
-Then update the root `CLAUDE.md` `## My Projects & Context` section so every project is
-listed with a one-line "read this when..." pointer. Add, never overwrite the rest.
+**2. `Projects/<Project Name>/memory.md`** as the living log. Seed it with light headings they
+can fill over time:
+- **Current state** (one line on where it's at now).
+- **Decisions** (empty to start; where choices get logged as they're made).
+- **Milestones** (what's been hit).
+- **To do / open** (what's still left).
+
+Tell them plainly: as the project moves forward, decisions and progress go in memory.md, so
+the context stays current without you ever rewriting the brief.
+
+Keep both short and real. Ask one quick clarifying question per project only if you need it.
+
+Then update the root `CLAUDE.md` `## My Projects & Context` section so every project is listed
+with a one-line "read this when..." pointer to its CLAUDE.md. Add, never overwrite the rest.
 
 Then output:
 
@@ -173,7 +202,7 @@ below once THEY say they're ready to move on.
   ║                                          ║
   ╚══════════════════════════════════════════╝
 
-  PROGRESS: ███████████░░░░░░░░░ 3/6 lessons
+  PROGRESS: ████████████░░░░░░░░ 3/5 lessons
 ```
 
 ## Wrap Up

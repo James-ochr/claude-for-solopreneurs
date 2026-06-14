@@ -43,7 +43,7 @@ Then output:
 ```
   ┌─────────────────────────────────────────────────────┐
   │                                                     │
-  │   THE COURSE: 6 short lessons. All free.            │
+  │   THE COURSE: 5 short lessons. All free.            │
   │                                                     │
   │   1. Build Your AI Assistant                        │
   │      Claude learns your business and proves it.     │
@@ -59,9 +59,7 @@ Then output:
   │                                                     │
   │   5. Your Agent Team                                │
   │      A team of AIs working for you at once.         │
-  │                                                     │
-  │   6. Build Something Real                           │
-  │      A finished, branded piece for your business.   │
+  │      The finale: research + gifts to take with you. │
   │                                                     │
   └─────────────────────────────────────────────────────┘
 ```
@@ -69,7 +67,7 @@ Then output:
 Then say:
 
 Here's the idea. Most people use AI like a chatbot. Ask a question, get an answer. That's
-rung one. Over these six lessons we climb the ladder: from a chatbot, to creating real
+rung one. Over these five lessons we climb the ladder: from a chatbot, to creating real
 work, to automations, to a team of agents working for you.
 
 **Every lesson gives you something real.** No theory. You build things.

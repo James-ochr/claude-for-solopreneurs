@@ -205,7 +205,7 @@ From now on, anytime you work in that project folder, Claude writes like you.
   ║                                          ║
   ╚══════════════════════════════════════════╝
 
-  PROGRESS: ██████████░░░░░░░░░░ 2/6 lessons
+  PROGRESS: ████████░░░░░░░░░░░░ 2/5 lessons
 ```
 
 ## Wrap Up
