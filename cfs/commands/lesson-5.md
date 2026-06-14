@@ -196,22 +196,26 @@ HARD GATE. Only show the completion card and wrap up below once THEY say they're
 
 Say:
 
-**And that's the course.**
+**Brilliant. You've set the foundations.**
 
-You've built the whole stack. Knowledge, voice, projects, a skill, and an agent team.
+You've created an AI assistant that understands you, what you do, who you serve, and how you
+want to work. It can write for you, and be a thinking partner that's in tune with what you're
+trying to achieve.
+
+You even have a team of agents you can dispatch to do complex work for you.
 
 ```
   ╔══════════════════════════════════════════════════════╗
   ║                                                      ║
-  ║   COURSE COMPLETE                                   ║
+  ║   COURSE COMPLETE                                    ║
   ║                                                      ║
-  ║   1. Built your AI assistant (CLAUDE.md)            ║
-  ║   2. Saved your real voice                          ║
-  ║   3. Built your second brain                        ║
-  ║   4. Built a skill                                  ║
-  ║   5. Ran an agent team                              ║
+  ║   1. Built your AI assistant (CLAUDE.md)             ║
+  ║   2. Saved your real voice                           ║
+  ║   3. Built your second brain                         ║
+  ║   4. Built a skill                                   ║
+  ║   5. Ran an agent team                               ║
   ║                                                      ║
-  ║   You're running your business with AI.            ║
+  ║   You're running your business with AI.              ║
   ║                                                      ║
   ╚══════════════════════════════════════════════════════╝
 
@@ -222,13 +226,9 @@ Then say:
 
 **You did the work. Most people never even know this is possible.**
 
-Two gifts to take with you, then an invitation.
+Here are two gifts to take with you, then a small invitation.
 
-Read the two gifts bundled with this course:
-- `${CLAUDE_PLUGIN_ROOT}/gifts/5-agent-workflows-for-solopreneurs.md`
-- `${CLAUDE_PLUGIN_ROOT}/gifts/solopreneur-templates.md`
-
-If either isn't there, tell them where it lives and move on.
+Show the first gift, then OPEN its file so they can actually see what is inside:
 
 ```
   ╔═══════════════════════════════════════════════╗
@@ -242,6 +242,12 @@ If either isn't there, tell them where it lives and move on.
   ╚═══════════════════════════════════════════════╝
 ```
 
+```bash
+open "${CLAUDE_PLUGIN_ROOT}/gifts/5-agent-workflows-for-solopreneurs.md"
+```
+
+Then the second, same again:
+
 ```
   ╔═══════════════════════════════════════════════╗
   ║                                               ║
@@ -254,18 +260,22 @@ If either isn't there, tell them where it lives and move on.
   ╚═══════════════════════════════════════════════╝
 ```
 
-Say: Run the Content Blitz every week and your content is basically done. And the templates each build a whole system from a single paste.
+```bash
+open "${CLAUDE_PLUGIN_ROOT}/gifts/solopreneur-templates.md"
+```
 
-**And the invitation.**
+Say: I have opened both so you can see exactly what is inside. Run the Content Blitz every
+week and your content is basically done, and the templates each build a whole system from a
+single paste.
 
-Everything you just built is the executive side. The systems, the delivery. But the thing
-that really decides how far this goes is the inner side. How you feel, how you show up, how
-you handle the fear, the pricing, the sales conversation.
+**One last thing.**
 
-That's the work I do with people one to one. If you want to grow in getting your emotions to
-work for you and your business, and deliver powerfully for your customers, I'd love to talk.
+Everything you built today is the executive side. The systems, the delivery.
 
-No pressure. No countdown. Just a short form, and if we're a fit, we'll talk.
+The other half is the inner side. How you feel, how you show up, how you handle the fear, the
+pricing, the hard conversations. That is the part I help people with, one to one.
+
+If you ever want to go there, the door is open. No pressure, no pitch.
 
 Open the vision-call form for them:
 
@@ -275,7 +285,7 @@ open "https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWja
 
 Then say:
 
-I just opened it in your browser. A few quick questions, that's all.
+That is the form, there whenever you want it. A few quick questions, nothing more.
 
 You keep everything from this course either way. Forever.
 

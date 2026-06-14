@@ -195,15 +195,15 @@ From now on, anytime you work in that project folder, Claude writes like you.
 
 
 ```
-  ╔══════════════════════════════════════════╗
-  ║                                          ║
-  ║   LESSON 2 COMPLETE!                     ║
-  ║                                          ║
-  ║   Voice saved      -- as a project       ║
-  ║   Linked to CLAUDE.md                    ║
+  ╔═════════════════════════════════════════════╗
+  ║                                             ║
+  ║   LESSON 2 COMPLETE!                        ║
+  ║                                             ║
+  ║   Voice saved      -- as a project          ║
+  ║   Linked to CLAUDE.md                       ║
   ║   First post       -- written in YOUR voice ║
-  ║                                          ║
-  ╚══════════════════════════════════════════╝
+  ║                                             ║
+  ╚═════════════════════════════════════════════╝
 
   PROGRESS: ████████░░░░░░░░░░░░ 2/5 lessons
 ```

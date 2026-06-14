@@ -353,18 +353,22 @@ there, just tell the user where it lives and move on. Don't break the flow.
 Then output:
 
 ```
-  ╔═══════════════════════════════════════════════╗
-  ║                                               ║
-  ║   GIFT UNLOCKED: 30 AI Prompts                ║
-  ║                                               ║
-  ║   30 copy-paste prompts for solopreneurs      ║
+  ╔════════════════════════════════════════════════╗
+  ║                                                ║
+  ║   GIFT UNLOCKED: 30 AI Prompts                 ║
+  ║                                                ║
+  ║   30 copy-paste prompts for solopreneurs       ║
   ║   that work 10x better now that Claude         ║
   ║   knows YOUR business.                         ║
-  ║                                               ║
+  ║                                                ║
   ║   Content, customer messages, strategy,        ║
   ║   systems, all personalised to you.            ║
-  ║                                               ║
-  ╚═══════════════════════════════════════════════╝
+  ║                                                ║
+  ╚════════════════════════════════════════════════╝
+```
+
+```bash
+open "${CLAUDE_PLUGIN_ROOT}/gifts/30-prompts-for-solopreneurs.md"
 ```
 
 Say:
@@ -373,8 +377,8 @@ Say:
 
 Every one gives you personalised results because of the CLAUDE.md you just built.
 
-Want to see them now? Say **"show me the prompts"** and I'll pull them up. Or save them for
-later. They're not going anywhere.
+I have just opened them in your browser, so you can see exactly what is inside. They live at
+`${CLAUDE_PLUGIN_ROOT}/gifts/30-prompts-for-solopreneurs.md` and they are not going anywhere.
 
 
 ## Wrap Up
