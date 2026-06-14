@@ -112,19 +112,25 @@ Then output:
 
   PROGRESS: █████████████░░░░░░░ 2/3 steps
 
-  STEP 3: Put it to the test
+  STEP 3: Let's work on something
 ```
 
-**Type `1` to test it.**
+**The more information you put in these folders, the more Claude can understand the project
+and give you meaningful help.**
+
+If it's a complex project, point Claude to its folder and ask it to create a CLAUDE.md inside
+that explains what the project is all about. That's it.
+
+**Type `1` and let's work on something.**
 
 Wait for confirmation.
 
-## Step 3: Prove it knows your world
+## Step 3: Let's work on something
 
 Say:
 
-**Let's prove it. Ask me to help with one of your projects, and watch how much I already
-know.**
+**Let's work on something. Ask me to help with one of your projects, and watch how much I
+already know.**
 
 Offer 2-3 concrete prompts based on their actual projects, for example:
 - "Plan my next two weeks on [project]."
