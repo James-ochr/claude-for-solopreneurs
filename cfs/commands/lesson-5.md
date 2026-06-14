@@ -100,7 +100,8 @@ Every report MUST follow the course HOUSE STYLE:
   customers, let's build your inner edge together with Inner Edge.", then a gold button
   **"Work one to one with James →"** linking to
   `https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform`.
-- Footer: "James Christensen · christensencoaching.com". Mobile responsive. No em dashes.
+- Footer: "James Christensen · christensencoaching.com". Mobile responsive.
+- NON-NEGOTIABLE: never use an em dash anywhere, including the page <title>, headings and body. Use commas, full stops or a spaced hyphen instead. Before saving, check the whole file for em dashes and remove any.
 
 Agent prompts (insert their niche and ideal customer from CLAUDE.md, and the full house-style
 spec above into each):
@@ -169,6 +170,15 @@ Then say:
 got it all back at once.
 
 One Claude is an assistant. A team of agents is a workforce.
+
+Then, before rushing on, offer to keep going. Genuinely:
+
+**Want to run the team on something else, or are you ready to move on to the finale?**
+
+No rush. If there's another job worth handing the team, do it now. Someone wanting to keep
+using what they built is a good sign, not a detour.
+
+HARD GATE. Only show the completion card and wrap up below once THEY say they're ready.
 
 ```
   ╔══════════════════════════════════════════╗
