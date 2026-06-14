@@ -99,11 +99,19 @@ Say which channel you're doing, then ask:
 
 Just drop them in. Don't tidy them up. The messier and more real, the better.
 
+All communication channels live inside ONE project called `Comms`, each as its own subfolder.
+So LinkedIn, YouTube, a newsletter, etc. all sit under `Projects/Comms/`. This keeps comms
+as one project that scales, not a scatter of top-level folders.
+
 When they paste, warn about the folder/file pop-up, then:
 
-1. Create a project folder at `Projects/<Channel>/` in the current directory.
-2. Save what they pasted to `Projects/<Channel>/post-history.md`.
-3. Study it, then write `Projects/<Channel>/CLAUDE.md` capturing:
+1. If it doesn't exist yet, create `Projects/Comms/` with a short `Projects/Comms/CLAUDE.md`
+   that says "this project holds all my communication channels; each subfolder has its own
+   voice file; read the relevant one before writing for that channel." List the channels in
+   it and add to that list as new ones are built.
+2. Create the channel folder at `Projects/Comms/<Channel>/`.
+3. Save what they pasted to `Projects/Comms/<Channel>/post-history.md`.
+4. Study it, then write `Projects/Comms/<Channel>/CLAUDE.md` capturing:
    - **Voice**: tone, energy, the words and phrases they actually use, what they avoid.
    - **Structure**: how they open (hook style), how they build, how they close, length, formatting, emoji use.
    - **A few signature patterns** you noticed, with examples pulled from their own posts.
@@ -116,9 +124,9 @@ After building each channel's files, say briefly what you learned about their vo
 specific observations (real ones, from their content).
 
 When all chosen channels are done, update the root `CLAUDE.md`: add (or extend) a section
-called `## My Projects & Context` that points to each `Projects/<Channel>/CLAUDE.md` and
-says when to read it (e.g. "read before writing anything for LinkedIn"). Never overwrite the
-rest of their CLAUDE.md. Just add the pointers.
+called `## My Projects & Context` that points to the `Comms` project and each channel's
+`Projects/Comms/<Channel>/CLAUDE.md`, and says when to read it (e.g. "read before writing
+anything for LinkedIn"). Never overwrite the rest of their CLAUDE.md. Just add the pointers.
 
 Then output:
 
@@ -162,7 +170,7 @@ ideal customer has, drawn from your CLAUDE.md.
 
 Wait for their answer. HARD GATE.
 
-Then read `Projects/<Channel>/CLAUDE.md` and `post-history.md`, and write ONE genuinely good
+Then read `Projects/Comms/<Channel>/CLAUDE.md` and `post-history.md`, and write ONE genuinely good
 post for that channel, in their voice and structure. Match their hook style, length and
 formatting exactly. No generic guru tone. No em dashes unless they use them.
 
@@ -174,7 +182,7 @@ CRITICAL, never break this:
   quote. Do NOT put words in their mouth or imply something happened to them that they never
   told you. A made-up story is worse than no story. Make the point directly instead.
 
-Offer to save it to `Projects/<Channel>/drafts-YYYY-MM-DD.md`. Only save if they say yes.
+Offer to save it to `Projects/Comms/<Channel>/drafts-YYYY-MM-DD.md`. Only save if they say yes.
 
 Then say:
 

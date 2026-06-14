@@ -41,6 +41,10 @@ We're going to build Claude that same knowledge. We call it your second brain. A
 project folders, each holding the context for one part of your business, all indexed so
 Claude always knows where to look.
 
+You actually started this in Lesson 2. That was your first project: `Comms`, with a folder
+inside for each channel you set up, each holding its own voice. Now we widen it to the rest
+of your business. Same pattern, more of your world.
+
 
 ```
   ┌─────────────────────────────────────────────┐
