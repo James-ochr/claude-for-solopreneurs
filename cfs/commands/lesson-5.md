@@ -270,12 +270,15 @@ single paste.
 
 **One last thing.**
 
-Everything you built today is the executive side. The systems, the delivery.
+Everything you built today is part of the executive side of business. The systems, the
+delivery. And it will help you do that even better.
 
-The other half is the inner side. How you feel, how you show up, how you handle the fear, the
-pricing, the hard conversations. That is the part I help people with, one to one.
+The other half is the person. This is you. How you feel, how you show up, what you think is
+possible, what may be holding you back, and how you may be getting in your own way.
 
-If you ever want to go there, the door is open. No pressure, no pitch.
+That's the part I help people with, one to one.
+
+If you're curious about that work, the door is open. No pressure, no pitch.
 
 Open the vision-call form for them:
 
@@ -285,11 +288,13 @@ open "https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWja
 
 Then say:
 
-That is the form, there whenever you want it. A few quick questions, nothing more.
+But if you do want to work with me one to one, I've opened a form in your browser. It's there
+whenever you want it. It takes a minute, and it requests a one-hour vision call with me. If
+you're a fit, I'll reach out to you, and we'll take it from there.
 
-You keep everything from this course either way. Forever.
+You keep everything from this course either way. Forever. It's yours.
 
-Thank you for doing this. Go and build something good.
+Thank you for doing this. Go build something great, and serve your people well.
 
 **James**
 
