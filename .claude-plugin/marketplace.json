@@ -1,0 +1,14 @@
+{
+  "name": "claude-for-solopreneurs",
+  "owner": {
+    "name": "James Christensen",
+    "email": "james@christensencoaching.com"
+  },
+  "plugins": [
+    {
+      "name": "cfs",
+      "source": "./cfs",
+      "description": "Claude for Solopreneurs: a 6-lesson interactive course that turns Claude Code into an AI that knows your business, your voice and your world, then puts it to work."
+    }
+  ]
+}
