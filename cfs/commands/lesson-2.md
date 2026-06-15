@@ -91,6 +91,22 @@ Wait for their pick. HARD GATE.
 
 ## Step 2: Learn the voice (per chosen channel)
 
+First, before you create anything, tell them what is about to happen so the folders don't just
+appear out of nowhere. Say:
+
+**Quick heads up on what I'm about to do.**
+
+For each channel you picked, I'm going to create a folder on your computer. Think of it as that
+channel's home.
+
+Inside it I'll keep two things: the real posts you give me, and a short file that captures
+exactly how you sound on that channel.
+
+So next time you write for that channel, Claude opens that folder, reads your voice, and writes
+like you.
+
+You'll see a pop-up asking to create the files. Just say yes.
+
 For EACH channel they chose, do this:
 
 Say which channel you're doing, then ask:
@@ -99,9 +115,9 @@ Say which channel you're doing, then ask:
 
 Just drop them in. Don't tidy them up. The messier and more real, the better.
 
-All communication channels live inside ONE project called `Comms`, each as its own subfolder.
-So LinkedIn, YouTube, a newsletter, etc. all sit under `Projects/Comms/`. This keeps comms
-as one project that scales, not a scatter of top-level folders.
+All communication channels live inside ONE folder called `Comms`, each channel as its own
+subfolder. So LinkedIn, YouTube, a newsletter, etc. all sit under `Projects/Comms/`. This keeps
+comms as one tidy place that scales, not a scatter of loose folders.
 
 When they paste, warn about the folder/file pop-up, then:
 
@@ -191,7 +207,7 @@ Then say:
 I matched your [hook style / length / the way you close]. Because Claude read the voice file
 you just built before it wrote a word.
 
-From now on, anytime you work in that project folder, Claude writes like you.
+From now on, anytime you work in that folder, Claude writes like you.
 
 
 ```
