@@ -57,7 +57,7 @@ of your business. Same pattern, more of your world.
   │  Goal: Claude knows your whole world        │
   │  Win: A project structure that scales       │
   │                                             │
-  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps  │
+  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps   │
   │                                             │
   └─────────────────────────────────────────────┘
 

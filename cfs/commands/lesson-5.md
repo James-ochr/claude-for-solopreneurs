@@ -50,7 +50,7 @@ While you have a coffee.
   │  Goal: Multiple AIs working in parallel     │
   │  Win: Live niche research + your own team   │
   │                                             │
-  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps  │
+  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps   │
   │                                             │
   └─────────────────────────────────────────────┘
 
@@ -96,8 +96,8 @@ Every report MUST follow the course HOUSE STYLE:
   `#B8852A`, gold-light `#C79A3A`, white cards with 2px navy borders. NO logo.
 - Top: full-width gold gradient bar, a pill eyebrow, a clear title, a 120px gold rule, subtitle.
 - Bottom CTA band on navy: "Ready to go deeper?", a gold rule, the line "If you want to grow
-  in getting your emotions to work for you and your business, and deliver powerfully for your
-  customers, let's build your inner edge together with Inner Edge.", then a gold button
+  in getting your emotions to work for you and your business, and get real results for the
+  people you serve, let's build your inner edge together with Inner Edge.", then a gold button
   **"Work one to one with James →"** linking to
   `https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform`.
 - Footer: "James Christensen · christensencoaching.com". Mobile responsive.
@@ -206,7 +206,7 @@ You even have a team of agents you can dispatch to do complex work for you.
   ║   4. Built a skill                                   ║
   ║   5. Ran an agent team                               ║
   ║                                                      ║
-  ║   Feel all the feels and get it done.                ║
+  ║   Feel all the feels and get $IT done.               ║
   ║                                                      ║
   ╚══════════════════════════════════════════════════════╝
 

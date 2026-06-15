@@ -45,7 +45,7 @@ This is rung three. Automation. A job you do over and over becomes one command.
   │  Goal: One command, real work done          │
   │  Win: A skill you built, working            │
   │                                             │
-  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps  │
+  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps   │
   │                                             │
   └─────────────────────────────────────────────┘
 

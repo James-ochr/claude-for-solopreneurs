@@ -55,7 +55,7 @@ This is rung two of the ladder. Claude starts creating real work, in your voice.
   │  Goal: Claude sounds like YOU               │
   │  Win: A saved voice + a real post           │
   │                                             │
-  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps  │
+  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/3 steps   │
   │                                             │
   └─────────────────────────────────────────────┘
 
@@ -74,7 +74,7 @@ Ask these two as multiple-choice. They can pick more than one.
 - Written
 - Video
 
-**Question 2. How do you communicate?**
+**Question 2. What are your communication channels?**
 - LinkedIn
 - YouTube
 - Instagram

@@ -97,7 +97,7 @@ Then output:
   │  Goal: Claude knows YOUR business           │
   │  Win: Personalised AI, not generic answers  │
   │                                             │
-  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/2 steps  │
+  │  PROGRESS: ░░░░░░░░░░░░░░░░░░░░ 0/2 steps   │
   │                                             │
   └─────────────────────────────────────────────┘
 
@@ -272,7 +272,7 @@ using ONLY what's in their CLAUDE.md. Follow the HOUSE STYLE below exactly.
   `https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWjaWzTpT3CIHCy_t7Cg/viewform`
   (target _blank). Button: gold background, navy text, Inter Tight 600, padding 18px 40px,
   8px radius, hover lifts slightly. CTA paragraph: "If you want to grow in getting your
-  emotions to work for you and your business, and deliver powerfully for your customers,
+  emotions to work for you and your business, and get real results for the people you serve,
   let's build your inner edge together with Inner Edge."
 - Footer: small navy band, light text: "James Christensen · christensencoaching.com".
 - Mobile responsive with `@media (max-width:680px)`.
@@ -405,11 +405,11 @@ Then output:
   ┌─────────────────────────────────────────────┐
   │                                             │
   │  UP NEXT: LESSON 2                          │
-  │  Create Real Work                           │
+  │  Find Your Voice                            │
   │                                             │
-  │  Rung two of the ladder. You'll have        │
-  │  Claude build you a real, finished piece    │
-  │  of work, in your voice.                    │
+  │  Claude learns how you actually sound,      │
+  │  from your real content, so it can write    │
+  │  in your voice.                             │
   │                                             │
   │  Type /cfs:lesson-2 to continue             │
   │                                             │
