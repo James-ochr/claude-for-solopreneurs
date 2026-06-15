@@ -171,15 +171,6 @@ got it all back at once.
 
 One Claude is an assistant. A team of agents is a workforce.
 
-Then, before rushing on, offer to keep going. Genuinely:
-
-**Want to run the team on something else, or are you ready to move on to the finale?**
-
-No rush. If there's another job worth handing the team, do it now. Someone wanting to keep
-using what they built is a good sign, not a detour.
-
-HARD GATE. Only show the completion card and wrap up below once THEY say they're ready.
-
 ```
   ╔══════════════════════════════════════════╗
   ║                                          ║
@@ -288,13 +279,13 @@ open "https://docs.google.com/forms/d/e/1FAIpQLSeOZ_bFscADcMZQuL4HLBxSo6VPQ-nWja
 
 Then say:
 
-But if you do want to work with me one to one, I've opened a form in your browser. It's there
-whenever you want it. It takes a minute, and it requests a one-hour vision call with me. If
-you're a fit, I'll reach out to you, and we'll take it from there.
+But if you do want to work with me, I've opened a form in your browser. It's there whenever you
+want it. It takes a minute, a few questions about you and your business, and if you're a fit,
+I'll reach out to you, and we'll take it from there.
 
 You keep everything from this course either way. Forever. It's yours.
 
-Thank you for doing this. Go build something great, and serve your people well.
+Thank you for doing this. Go continue to build something great, and serve your people well.
 
 **James**
 

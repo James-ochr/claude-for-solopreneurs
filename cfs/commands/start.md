@@ -28,11 +28,14 @@ Then say:
 Hey, I'm James.
 
 I help solopreneurs, entrepreneurs and business owners get their emotions to work for them.
-Two competences run everything: knowing yourself, and delivering powerfully for the people
-you serve.
+To be successful in business in the age of AI there are two axes that will set you apart: your
+ability to build trust with people and delivering powerfully for those you serve. (I call this
+developing emotional and executive competence)
 
 This course is about the second one made simple. I'm going to show you how to use Claude to
-run your business, in a way that actually feels good.
+run your business in a way that actually feels good. This is about freeing up your time spent
+doing stuff you'd really rather not do, so you can get back to filling your time doing what you
+do best.
 
 This isn't ChatGPT. This isn't copy-pasting prompts. This is Claude Code, and it's going to
 change how you work.
@@ -46,7 +49,7 @@ Then output:
   │   THE COURSE: 5 short lessons. All free.            │
   │                                                     │
   │   1. Build Your AI Assistant                        │
-  │      Claude learns your business and proves it.     │
+  │      Claude learns your business.                   │
   │                                                     │
   │   2. Find Your Voice                                │
   │      Claude learns how you actually sound.          │

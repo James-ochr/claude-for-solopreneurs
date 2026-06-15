@@ -32,10 +32,12 @@ Then say:
 
 Welcome back.
 
-So far Claude knows who you are and how you sound. Now we give it the rest of your world.
+So far Claude knows who you are and how you sound. Now we give it the rest of your world. (Or
+as much of it as you want it to help you with)
 
-Think about a great assistant. The reason they're great isn't talent. It's that they know
-everything. Your offers, your clients, your projects, how you like things done.
+Think about a great assistant. The reason they're great isn't just talent. It's that they know
+everything. Your offers, your clients, your projects, how you like things done, what you tend
+to forget...
 
 We're going to build Claude that same knowledge. We call it your second brain. A set of
 project folders, each holding the context for one part of your business, all indexed so
@@ -145,7 +147,7 @@ Then output:
 ```
 
 **The more information you put in these folders, the more Claude can understand the project
-and give you meaningful help.**
+and help you in a meaningful way.**
 
 If it's a complex project, you can ask Claude to create its own CLAUDE.md file inside the
 project folder and explain the project to it.

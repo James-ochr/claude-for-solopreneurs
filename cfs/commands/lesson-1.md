@@ -68,15 +68,14 @@ Output this EXACTLY:
 
 Then say:
 
-Hey, I'm James.
+Hey, it's James!
 
 Just a quick heads up before we start.
 
 As we go, you'll see pop-ups asking things like, "Can I create this file?"
 
-That's just Claude being polite.
-
-I'll always warn you before one shows up.
+That's just Claude being polite but also showing you that Claude won't do anything like delete
+or move files without you giving it permission.
 
 **You're running this. Nothing happens without your say-so.**
 
@@ -132,7 +131,7 @@ YOUR voice.** Every time.
 Think of it like onboarding a new team member who never forgets a thing you tell them,
 never calls in sick, and can build almost anything you describe.
 
-**And it takes two minutes, not two weeks.**
+**And it takes 10 minutes, not two weeks.**
 
 Just answer like you're talking to a friend. There are no wrong answers.
 
@@ -205,7 +204,7 @@ From now on, **every conversation** with Claude starts by reading that file. It 
 you are, what you do, who you serve, and how you talk.
 
 **Quick note:** this file works in the folder you're in right now. And here's the real
-point. It's a **living document.** Come back and add to it anytime: more about your offer,
+point. It's a **living document.** You can ask it to add info to it at any time: more about your offer,
 your customers, your frameworks. The more context you give it, the sharper it gets. Just
 like a team member. The more they know, the better they perform.
 
@@ -242,9 +241,9 @@ Say:
 
 **Step 2. The proof.**
 
-I'm going to build you a real one-page website about you and your business.
+I'm going to build you a one-pager about you and your business.
 
-Not a text file. An actual web page, designed, that opens in your browser.
+Not a text file. It's called an html and will open in your Internet browser.
 
 And I'm building it from one thing only. The CLAUDE.md you just made.
 
@@ -377,7 +376,7 @@ Say:
 
 Every one gives you personalised results because of the CLAUDE.md you just built.
 
-I have just opened them in your browser, so you can see exactly what is inside. They live at
+I have just opened them, so you can see exactly what is inside. They live at
 `${CLAUDE_PLUGIN_ROOT}/gifts/30-prompts-for-solopreneurs.md` and they are not going anywhere.
 
 

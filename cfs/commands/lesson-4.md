@@ -29,7 +29,7 @@ Then say:
 Welcome back. This one is going to click in a fun way.
 
 This whole course? Every lesson you've run, /cfs:lesson-1, this one right now, those are
-**skills**. A skill is a saved instruction that turns one command into real work.
+**skills**. A skill is a saved instruction that turns one command into real, repeatable work.
 
 You've been using them the whole time. Now you build your own.
 
@@ -79,8 +79,8 @@ Say:
 
 Explain simply first:
 
-A skill is a small file Claude reads. It installs once, and then it works on whatever folder
-you have open. So this skill will use the voice and projects you already set up.
+A skill is a small file Claude reads. It installs once, and then it can be reused so you don't
+have to write the same prompt over and over again.
 
 Create a skill folder at `~/.claude/skills/<short-skill-name>/SKILL.md`. The SKILL.md needs:
 - YAML frontmatter with `name` and a clear `description` (the description is what makes Claude
@@ -127,13 +127,15 @@ then on it's a single command.
 Landing pages, content, emails, weekly reviews. Anything you do repeatedly can become a
 skill. This is how you stop doing the same work twice.
 
+The best part is that if the output didn't come out just right or you want to make changes,
+just tell Claude what you want. Have a little back and forth, and then ask it to re-save the
+skill based on the new information. This way, it gets better as it goes and you get what you
+want.
+
 Then, before rushing on, offer to keep going. Genuinely:
 
 **Want to keep going with this skill, tweak it, or build another, or are you ready to move on
 to the next lesson?**
-
-No rush. If it's useful to keep refining it or run it again, do that. Someone wanting to stay
-and use what they built is a good sign, not a detour.
 
 HARD GATE. Only show the completion card and wrap up below once THEY say they're ready to move
 on.

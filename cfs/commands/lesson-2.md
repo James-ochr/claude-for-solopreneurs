@@ -74,12 +74,13 @@ Ask these two as multiple-choice. They can pick more than one.
 - Written
 - Video
 
-**Question 2. Where do you post?**
+**Question 2. How do you communicate?**
 - LinkedIn
 - YouTube
 - Instagram
 - Newsletter
 - Skool / Circle community posts
+- Email
 
 After they answer, say:
 
@@ -112,7 +113,7 @@ For EACH channel they chose, do this:
 
 Say which channel you're doing, then ask:
 
-**Paste me your last 8 to 10 [LinkedIn posts / newsletters / video scripts or transcripts].**
+**Paste me your last 8 to 10 [LinkedIn posts / newsletters / video scripts or transcripts / email].**
 
 Just drop them in. Don't tidy them up. The messier and more real, the better.
 
@@ -237,7 +238,7 @@ Say:
 **That's Lesson 2.** Claude now knows how you sound, and it's saved forever.
 
 Notice what we just did. We made your first **project**. A folder that holds everything about
-one part of your business. That's the pattern for Lesson 3.
+one part of your business where you go back to do work. That's the pattern for Lesson 3.
 
 ```
   ┌─────────────────────────────────────────────┐
