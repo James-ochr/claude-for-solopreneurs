@@ -96,14 +96,15 @@ appear out of nowhere. Say:
 
 **Quick heads up on what I'm about to do.**
 
-For each channel you picked, I'm going to create a folder on your computer. Think of it as that
-channel's home.
+I'm going to create a `Projects` folder. That's the home for your whole business.
 
-Inside it I'll keep two things: the real posts you give me, and a short file that captures
-exactly how you sound on that channel.
+Inside it, a `Comms` folder for everything you publish. And inside `Comms`, a folder for each
+channel you picked, for example one for LinkedIn.
 
-So next time you write for that channel, Claude opens that folder, reads your voice, and writes
-like you.
+In each channel folder I'll keep two things: your real posts, and a voice principles file that
+captures exactly how you sound there (your "LinkedIn Voice Principles", say).
+
+So next time you write for that channel, Claude reads those principles and writes like you.
 
 You'll see a pop-up asking to create the files. Just say yes.
 
@@ -115,19 +116,22 @@ Say which channel you're doing, then ask:
 
 Just drop them in. Don't tidy them up. The messier and more real, the better.
 
-All communication channels live inside ONE folder called `Comms`, each channel as its own
-subfolder. So LinkedIn, YouTube, a newsletter, etc. all sit under `Projects/Comms/`. This keeps
-comms as one tidy place that scales, not a scatter of loose folders.
+The structure nests: a `Projects` folder, a `Comms` folder inside it, then a folder for each
+chosen channel inside `Comms`. So LinkedIn lives at `Projects/Comms/LinkedIn/`. Inside each
+channel folder go two files: the channel's voice principles, and its post history.
 
 When they paste, warn about the folder/file pop-up, then:
 
-1. If it doesn't exist yet, create `Projects/Comms/` with a short `Projects/Comms/CLAUDE.md`
-   that says "this project holds all my communication channels; each subfolder has its own
-   voice file; read the relevant one before writing for that channel." List the channels in
-   it and add to that list as new ones are built.
+1. If they don't exist yet, create `Projects/` and a `Projects/Comms/` folder, with a short
+   `Projects/Comms/CLAUDE.md` that says "this folder holds all my communication channels. Each
+   channel has its own subfolder with a voice principles file. Before writing for a channel,
+   read that channel's voice principles file." List the channels in it, and add to that list as
+   new ones are built.
 2. Create the channel folder at `Projects/Comms/<Channel>/`.
 3. Save what they pasted to `Projects/Comms/<Channel>/post-history.md`.
-4. Study it, then write `Projects/Comms/<Channel>/CLAUDE.md` capturing:
+4. Study it, then write a voice principles file at
+   `Projects/Comms/<Channel>/<Channel> Voice Principles.md` (for example,
+   `Projects/Comms/LinkedIn/LinkedIn Voice Principles.md`), capturing:
    - **Voice**: tone, energy, the words and phrases they actually use, what they avoid.
    - **Structure**: how they open (hook style), how they build, how they close, length, formatting, emoji use.
    - **A few signature patterns** you noticed, with examples pulled from their own posts.
@@ -140,9 +144,10 @@ After building each channel's files, say briefly what you learned about their vo
 specific observations (real ones, from their content).
 
 When all chosen channels are done, update the root `CLAUDE.md`: add (or extend) a section
-called `## My Projects & Context` that points to the `Comms` project and each channel's
-`Projects/Comms/<Channel>/CLAUDE.md`, and says when to read it (e.g. "read before writing
-anything for LinkedIn"). Never overwrite the rest of their CLAUDE.md. Just add the pointers.
+called `## My Projects & Context` that points to the `Comms` folder and each channel's voice
+principles file (e.g. `Projects/Comms/LinkedIn/LinkedIn Voice Principles.md`), and says when to
+read it (e.g. "read before writing anything for LinkedIn"). Never overwrite the rest of their
+CLAUDE.md. Just add the pointers.
 
 Then output:
 
@@ -186,8 +191,9 @@ ideal customer has, drawn from your CLAUDE.md.
 
 Wait for their answer. HARD GATE.
 
-Then read `Projects/Comms/<Channel>/CLAUDE.md` and `post-history.md`, and write ONE genuinely good
-post for that channel, in their voice and structure. Match their hook style, length and
+Then read that channel's voice principles file (`Projects/Comms/<Channel>/<Channel> Voice
+Principles.md`) and its `post-history.md`, and write ONE genuinely good post for that channel,
+in their voice and structure. Match their hook style, length and
 formatting exactly. No generic guru tone. No em dashes unless they use them.
 
 CRITICAL, never break this:
@@ -207,7 +213,7 @@ Then say:
 I matched your [hook style / length / the way you close]. Because Claude read the voice file
 you just built before it wrote a word.
 
-From now on, anytime you work in that folder, Claude writes like you.
+From now on, anytime you work in that project folder, Claude writes like you.
 
 
 ```
