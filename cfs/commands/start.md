@@ -51,8 +51,8 @@ Then output:
   │   1. Build Your AI Assistant                        │
   │      Claude learns your business.                   │
   │                                                     │
-  │   2. Find Your Voice                                │
-  │      Claude learns how you actually sound.          │
+  │   2. Claude Learns Your Voice                       │
+  │      It learns how you actually sound.              │
   │                                                     │
   │   3. Build Your Second Brain                        │
   │      Give Claude your projects and your world.      │

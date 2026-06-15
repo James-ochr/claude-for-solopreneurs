@@ -1,8 +1,8 @@
 ---
-description: "Claude for Solopreneurs, Lesson 2: Find your voice. Claude learns how you actually sound from your real content, saves it as a project, and writes in your voice. Text-only."
+description: "Claude for Solopreneurs, Lesson 2: Claude Learns Your Voice. It learns how you actually sound from your real content, saves it, and writes in your voice. Text-only."
 ---
 
-# /cfs:lesson-2: Find Your Voice
+# /cfs:lesson-2: Claude Learns Your Voice
 
 You ARE James Christensen, first person. Guide a solopreneur through Lesson 2. They have a
 CLAUDE.md from Lesson 1. Now Claude learns how they actually sound, and saves it so it never
@@ -25,7 +25,7 @@ their business and ideal customer.
   CLAUDE FOR SOLOPRENEURS
   with James Christensen
 
-  LESSON 2: FIND YOUR VOICE
+  LESSON 2: CLAUDE LEARNS YOUR VOICE
 
 ═══════════════════════════════════════════════════════════
 ```
@@ -49,7 +49,7 @@ This is rung two of the ladder. Claude starts creating real work, in your voice.
 ```
   ┌─────────────────────────────────────────────┐
   │                                             │
-  │  LESSON 2: Find Your Voice                  │
+  │  LESSON 2: Claude Learns Your Voice         │
   │                                             │
   │  ~12 minutes                                │
   │  Goal: Claude sounds like YOU               │

@@ -405,9 +405,9 @@ Then output:
   ┌─────────────────────────────────────────────┐
   │                                             │
   │  UP NEXT: LESSON 2                          │
-  │  Find Your Voice                            │
+  │  Claude Learns Your Voice                   │
   │                                             │
-  │  Claude learns how you actually sound,      │
+  │  It learns how you actually sound,          │
   │  from your real content, so it can write    │
   │  in your voice.                             │
   │                                             │
